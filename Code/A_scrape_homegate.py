@@ -1,5 +1,5 @@
 # A_scrape_homegate.py
-import pandas
+import logging
 from bs4 import BeautifulSoup
 import requests
 import pandas as pd
@@ -8,7 +8,8 @@ import time
 from datetime import datetime
 from headers import header
 
-
+logging.basicConfig(level=logging.INFO, filename="Log/homegate_log.log", filemode="w",
+                    format="%(asctime)s - %(levelname)s - %(message)s")
 
 
 def get_urls(url: str) -> list[str]:
@@ -48,7 +49,7 @@ def get_object_links(homegate_urls: list) -> list[str]:
     '''
 
     # Initialisieren einer leeren Liste
-    print('-' * 50 + "\n"  
+    print(('-' * 50) + "\n"  
           "Collecting URLs...")
 
     object_links = []
@@ -69,35 +70,40 @@ def get_object_links(homegate_urls: list) -> list[str]:
             object_links.append("https://www.homegate.ch" + i.get("href"))
 
     print(f"Finished collecting URLs. {len(object_links)} URLs collected. \n"
-          '-' * 50)
+          + '-' * 50)
 
     return object_links
 
 
 
-def parse_object_links(object_links: list[str]) -> pandas.DataFrame:
+def parse_object_links(object_links: list[str]) -> pd.DataFrame:
     '''
     Erstellt einen pandas.DataFrame mit Attributen zu einzelnen Mietobjekten.
 
     :param object_links: list[str]: Liste mit URLs zu den Mietobjekten
     :return: pandas.DataFrame: Dataframe mit len(object_links) rows und 25 columns.
     '''
+
+    print(('-' * 50) + "\n"  
+          "Collecting object information...")
+
+
     apartments = []
     ap_counter = 1
     page_counter = 1
-    for i in object_links:
+    for l in object_links:
         start_time = time.time()
 
         # Initiierung eines leeren Dictionaries für jedes Apartement
         d = {}
 
         # Die URL zum Mietobjekt wird dem Dict. hinzugefügt:
-        d["url"] = i
+        d["url"] = l
 
         # Anfrage für Resource "i":
         # Mit headers = header() wird die header Funktion aufgerufen, welche zufällig einen header zurückgiebt.
         # Dies aufgrund einer Restriktion von homegate.ch. So soll eine Sperrung umgangen werden.
-        ap = requests.get(i, headers = header()).text
+        ap = requests.get(l, headers = header()).text
 
         # Parsen des HTMLs mittels lxml-Parser:
         ap_soup = BeautifulSoup(ap, "lxml")
@@ -106,15 +112,15 @@ def parse_object_links(object_links: list[str]) -> pandas.DataFrame:
 
         # Homegate schränkt die Anzahl aufrufe pro Client stark ein. Alle par Seitenaufrufe wird ein
         # Turing Test durchgeführt. Das If-Statement soll diese Seite erkennen, falls "Attention required" im HTML Code
-        #erscheint, soll das Skript pausiert werden und nach 4 Minuten erneut probiert werden.
+        # erscheint, soll das Skript pausiert werden und nach 4 Minuten erneut probiert werden.
         if "Attention Required!" in ap_soup.text:
             now = datetime.strftime(datetime.fromtimestamp(time.time()), format = "%H:%M:%S")
             print(f"cloudflare error, {ap_counter} apartements scraped at {now}")
 
             time.sleep(240)
-            ap = requests.get(i, headers = header()).text
+            #ap = requests.get(i, headers = header()).text
             # parsing the html code using lxml-parser:
-            ap_soup = BeautifulSoup(ap, "lxml")
+            #ap_soup = BeautifulSoup(ap, "lxml")
 
 
 
@@ -136,8 +142,9 @@ def parse_object_links(object_links: list[str]) -> pandas.DataFrame:
                 try:
                     net_rent = re.search("Nettomiete:CHF (.{5})", description).group(1)
                     d["net_rent"] = net_rent
-                except AttributeError:
+                except AttributeError as e:
                     d["net_rent"] = "no information"
+                    logging.error(f"{e} net rent nicht in description {l}")
             else:
                 d["net_rent"] = "no information"
 
@@ -161,16 +168,18 @@ def parse_object_links(object_links: list[str]) -> pandas.DataFrame:
         if gross_rent != None:
             try:
                 d["gross_rent"] = float(re.sub("\D+", "", gross_rent.text))
-            except ValueError:
+            except ValueError as e:
                 d["gross_rent"] = "no information"
+                logging.error(f"{e} gross rent nicht in description {l}")
 
 
         # Hinzufügen der Zimmerzahl zum Dict
         if len(rooms) > 0:
             try:
                 d["rooms"] = float(rooms[1].text)
-            except (IndexError, ValueError):
+            except (IndexError, ValueError) as e:
                 d["rooms"] = "no information"
+                logging.error(f"{e} rooms nicht in description {l}")
         else:
             d["rooms"] = "no information"
 
@@ -267,11 +276,11 @@ def scrape_homegate():
     df_apartments.to_csv(f"../Data/src/archive/A_homegate_{file_creation}_src.csv", index=False)
     df_apartments.to_csv("../Data/src/A_homegate_newest_src.csv", index=False)
 
-    print(f"process finished at {now}. \n"
+    print(f"process finished at {file_creation}. \n"
           f"files created: \n "
-          f"- ../Data/src/archive/A_homegate_{now}_src.csv \n "
+          f"- ../Data/src/archive/A_homegate_{file_creation}_src.csv \n "
           f"- ../Data/src/A_homegate_newest_src.csv \n"
-          f"total rows: {len(df_apartments)}"
+          f"total rows: {len(df_apartments)}")
 
 
 
