@@ -8,7 +8,7 @@ pymysql.install_as_MySQLdb()
 
 
 def upload_data_to_db():
-    # Verbinde mit der MariaDB
+    # Connect to Mariadb
     mariadb_connection = mariadb.connect(user="admin_nathanael",
                                          password="Pa$$w0rd",
                                          host="10.177.124.137",
@@ -16,12 +16,13 @@ def upload_data_to_db():
                                          database="CIP",
                                          allow_local_infile=True)
 
-    # Erstelle Cursor zum Interagieren mit der MariaDB
+    # Create cursor
     mycursor = mariadb_connection.cursor()
 
+    # drop old table
     mycursor.execute("""DROP TABLE flatfox_table""")
 
-    # Erstelle Tabelle in MariaDB, wenn diese noch nicht existiert
+    # Create table (if it doesnt eixst yet)
     mycursor.execute("""CREATE TABLE IF NOT EXISTS flatfox_table(
                      rooms FLOAT,
                      area INT,
@@ -46,44 +47,43 @@ def upload_data_to_db():
                      quiet_neighboorhood CHAR(5),
                      parcet CHAR(5),
                      family_child_friendly CHAR(5),
-                     apt_id VARCHAR(100))""")
+                     apt_id VARCHAR(100), 
+                     url_flatfox VARCHAR(150))""")
 
 
-    # Lade Daten in Tabelle auf MariaDB
-    mycursor.execute("""LOAD DATA LOCAL INFILE 'Data/data_cleaned/C_flatfox_stage_newest.csv' 
+    # Load data to Mariadb
+    mycursor.execute("""LOAD DATA LOCAL INFILE '../Data/stage/C_flatfox_stage.csv' 
                             INTO TABLE  flatfox_table 
                             FIELDS TERMINATED BY ',' 
                             IGNORE 1 LINES""")
 
-    # Übergebe die Änderungen an die Datenbank und schliesse Verbindung
+    # Save changes and close
     mariadb_connection.commit()
     mariadb_connection.close()
 
 
-# Lade die Daten von der Datenbank in ein Dataframe mittels pandas
+# Load data from database and save as pandas
 def get_data_from_db():
-    # Verbinde mit der MariaDB
+    # connect
     engine = create_engine("mariadb://admin_nathanael:Pa$$w0rd@10.177.124.137/CIP")
 
-    # Definiere SQL-Query
+    # Define SQL-Query
     query = """SELECT * FROM flatfox_table;"""
 
-    # Führe Query aus und speichere Daten in Pandas-DataFrame
+    # Run query and save in pandas df
     df = pd.read_sql(query, con=engine)
 
-    #print(df)
-
-    # Schliesse Verbindung zu MariaDB
+    # Close connection
     engine.dispose()
 
     return df
 
 def main():
 
-    # Lade Daten auf Datenbank
+    # Upload data to database:
     upload_data_to_db()
 
-    # Lade Daten von der Datenbank herunter
+    # Download data from database
     get_data_from_db()
 
 

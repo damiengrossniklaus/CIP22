@@ -1,324 +1,309 @@
-2022-05-16 14:42:56,689 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-stettlen/6858167
-2022-05-16 14:42:57,642 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-oberbipp/6901902
-2022-05-16 14:42:58,296 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6976530
-2022-05-16 14:42:58,964 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6055785
-2022-05-16 14:42:59,657 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-aarberg/7080201
-2022-05-16 14:43:01,469 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/reihen-einfamilienhaus-mieten-gwatt-thun/7106702
-2022-05-16 14:43:01,809 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-zollbrueck/7106703
-2022-05-16 14:43:09,458 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7106642
-2022-05-16 14:43:13,345 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/duplex--maisonette-wohnung-mieten-bueren-zum-hof/7105352
-2022-05-16 14:43:14,352 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/dachwohnung-mieten-wangen-an-der-aare/7099601
-2022-05-16 14:43:14,734 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-worblaufen/7104157
-2022-05-16 14:43:15,061 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-ittigen/7103273
-2022-05-16 14:43:15,408 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-koeniz/7052253
-2022-05-16 14:43:20,599 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7084015
-2022-05-16 14:43:21,612 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7050275
-2022-05-16 14:43:22,320 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-interlaken/7037471
-2022-05-16 14:43:23,041 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-interlaken/7037467
-2022-05-16 14:43:23,374 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-interlaken/7037469
-2022-05-16 14:43:23,736 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-interlaken/7037468
-2022-05-16 14:43:25,164 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-reconvilier/7019527
-2022-05-16 14:43:25,911 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/duplex--maisonette-wohnung-mieten-schwarzenburg/7104053
-2022-05-16 14:43:29,319 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6947064
-2022-05-16 14:43:30,036 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-safnern/7103492
-2022-05-16 14:43:30,337 - ERROR - 'NoneType' object has no attribute 'text' für rooms - rooms nicht in h2 https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7083985
-2022-05-16 14:43:30,338 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7083985
-2022-05-16 14:43:31,108 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-pieterlen/4120184
-2022-05-16 14:43:33,616 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/2990656
-2022-05-16 14:43:34,044 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-nidau/6951667
-2022-05-16 14:43:34,770 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7080317
-2022-05-16 14:43:37,791 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-guemligen/7100958
-2022-05-16 14:43:43,971 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ipsach/7029340
-2022-05-16 14:43:45,742 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einzelzimmer-mieten-finsterhennen/7100559
-2022-05-16 14:43:45,760 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einzelzimmer-mieten-finsterhennen/7100559
-2022-05-16 14:43:46,763 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7100465
-2022-05-16 14:43:47,495 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-zollbrueck/6957911
-2022-05-16 14:43:50,915 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7099265
-2022-05-16 14:43:51,281 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/studio-mieten-dieterswil/6937520
-2022-05-16 14:43:54,699 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-niederscherli/7098523
-2022-05-16 14:43:54,717 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-niederscherli/7098523
-2022-05-16 14:43:55,064 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7098481
-2022-05-16 14:43:55,475 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7043410
-2022-05-16 14:43:56,442 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thoerishaus/5854005
-2022-05-16 14:43:57,833 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/5829509
-2022-05-16 14:44:00,210 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-zollikofen/7097049
-2022-05-16 14:44:00,550 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-muenchenbuchsee/7097168
-2022-05-16 14:44:01,756 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-jegenstorf/7096964
-2022-05-16 14:44:07,878 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-signau/7093906
-2022-05-16 14:44:09,027 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-nidau/7043855
-2022-05-16 14:44:09,715 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ostermundigen/3214085
-2022-05-16 14:44:11,549 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-laupen-be/6852360
-2022-05-16 14:44:12,346 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-signau/6642359
-2022-05-16 14:44:13,676 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-muensingen/7090400
-2022-05-16 14:44:13,696 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-muensingen/7090400
-2022-05-16 14:44:14,084 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ostermundigen/7093479
-2022-05-16 14:44:20,583 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7037455
-2022-05-16 14:44:20,929 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ittigen/6480771
-2022-05-16 14:44:21,263 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-niederwangen-b-bern/7090299
-2022-05-16 14:44:21,280 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-niederwangen-b-bern/7090299
-2022-05-16 14:44:28,088 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ostermundigen/7087866
-2022-05-16 14:44:28,485 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-evilard/7087558
-2022-05-16 14:44:29,501 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7087560
-2022-05-16 14:44:30,536 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7086607
-2022-05-16 14:44:32,312 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/5713651
-2022-05-16 14:44:37,326 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-zimmerwald/7084109
-2022-05-16 14:44:38,569 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/dachwohnung-mieten-gerzensee/7084083
-2022-05-16 14:44:39,556 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6649556
-2022-05-16 14:44:40,281 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-scharnachtal/5129166
-2022-05-16 14:44:41,363 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-hindelbank/4630686
-2022-05-16 14:44:41,718 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ipsach/6825390
-2022-05-16 14:44:42,415 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/duplex--maisonette-wohnung-mieten-zweisimmen/7082289
-2022-05-16 14:44:44,631 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/mansarde-mieten-bern/7082169
-2022-05-16 14:44:44,978 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bolligen/5721081
-2022-05-16 14:44:45,300 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/mansarde-mieten-bern/6476237
-2022-05-16 14:44:47,652 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-koppigen/6780767
-2022-05-16 14:44:48,016 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7022698
-2022-05-16 14:44:48,738 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-tavannes/6666111
-2022-05-16 14:44:49,067 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/attikawohnung-mieten-biel-bienne/6704216
-2022-05-16 14:44:49,436 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/duplex--maisonette-wohnung-mieten-st-imier/6736990
-2022-05-16 14:44:49,803 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7062426
-2022-05-16 14:44:50,159 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6008663
-2022-05-16 14:44:50,506 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6981942
-2022-05-16 14:44:50,864 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6981836
-2022-05-16 14:44:51,253 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6755067
-2022-05-16 14:44:54,010 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-rueschegg-gambach/7080855
-2022-05-16 14:44:55,444 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-heimberg/6933450
-2022-05-16 14:44:55,796 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7002255
-2022-05-16 14:44:59,120 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7079951
-2022-05-16 14:44:59,448 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7079907
-2022-05-16 14:44:59,967 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/2004339
-2022-05-16 14:45:00,335 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7079288
-2022-05-16 14:45:00,761 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7034195
-2022-05-16 14:45:02,537 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-langenthal/7070690
-2022-05-16 14:45:03,533 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7008643
-2022-05-16 14:45:04,327 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7073063
-2022-05-16 14:45:06,439 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-lyss/7071794
-2022-05-16 14:45:06,459 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-lyss/7071794
-2022-05-16 14:45:08,467 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-liebefeld/7071573
-2022-05-16 14:45:10,851 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7024399
-2022-05-16 14:45:11,560 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-busswil-be/6930552
-2022-05-16 14:45:11,954 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-konolfingen/6773179
-2022-05-16 14:45:12,952 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-lenk-im-simmental/7027884
-2022-05-16 14:45:12,969 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/dachwohnung-mieten-lenk-im-simmental/7027884
-2022-05-16 14:45:13,397 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-urtenen-schoenbuehl/7066953
-2022-05-16 14:45:15,482 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-lyss/7068182
-2022-05-16 14:45:17,577 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/moebliertes-wohnobjekt-mieten-wengen/7039222
-2022-05-16 14:45:17,925 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/moebliertes-wohnobjekt-mieten-aeschi-b-spiez/6879548
-2022-05-16 14:45:19,268 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/duplex--maisonette-wohnung-mieten-moosseedorf/7010677
-2022-05-16 14:45:19,602 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einzelzimmer-mieten-oberburg/7062139
-2022-05-16 14:45:19,624 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einzelzimmer-mieten-oberburg/7062139
-2022-05-16 14:45:23,965 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-schwarzenburg/6867921
-2022-05-16 14:45:25,128 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-nidau/6944264
-2022-05-16 14:45:25,889 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/duplex--maisonette-wohnung-mieten-bern/3334951
-2022-05-16 14:45:27,249 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-ins/6833611
-2022-05-16 14:45:28,353 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7048274
-2022-05-16 14:45:29,421 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-zollbrueck/6992976
-2022-05-16 14:45:30,471 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-nidau/7032281
-2022-05-16 14:45:31,319 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-attiswil/6858096
-2022-05-16 14:45:32,004 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-riggisberg/7037531
-2022-05-16 14:45:32,374 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-guemligen/7036401
-2022-05-16 14:45:36,077 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-laupen-be/7032261
-2022-05-16 14:45:36,392 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-koeniz/7025950
-2022-05-16 14:45:36,767 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-wynau/7019308
-2022-05-16 14:45:37,158 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6930474
-2022-05-16 14:45:37,458 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-langenthal/6976039
-2022-05-16 14:45:39,194 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7019440
-2022-05-16 14:45:40,182 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-taeuffelen/6417870
-2022-05-16 14:45:40,617 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-boll/6687012
-2022-05-16 14:45:41,246 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7005984
-2022-05-16 14:45:41,580 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6907333
-2022-05-16 14:45:41,908 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-malleray/6944964
-2022-05-16 14:45:42,896 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6993879
-2022-05-16 14:45:43,967 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-moutier/6796528
-2022-05-16 14:45:47,861 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-aarwangen/5376277
-2022-05-16 14:45:50,402 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/5946040
-2022-05-16 14:45:50,710 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6867429
-2022-05-16 14:45:51,347 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6913539
-2022-05-16 14:45:52,080 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-thoerishaus/6880464
-2022-05-16 14:45:52,940 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6852170
-2022-05-16 14:45:53,553 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6811175
-2022-05-16 14:45:54,315 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-aarwangen/6351706
-2022-05-16 14:45:54,718 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/6757321
-2022-05-16 14:45:55,175 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6752617
-2022-05-16 14:46:00,046 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ruefenacht-be/5083311
-2022-05-16 14:46:01,358 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-moutier/6350279
-2022-05-16 14:46:02,285 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6275755
-2022-05-16 14:46:02,669 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-perrefitte/6234145
-2022-05-16 14:46:03,763 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-tavannes/4817426
-2022-05-16 14:46:04,440 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-huttwil/5584421
-2022-05-16 14:46:06,011 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-rohrbach/5257912
-2022-05-16 14:46:06,540 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-tavannes/4817403
-2022-05-16 14:46:07,927 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/4689344
-2022-05-16 14:46:08,835 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/1652826
-2022-05-16 14:46:15,112 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7098327
-2022-05-16 14:46:15,921 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-burgdorf/7100808
-2022-05-16 14:46:16,308 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-burgdorf/7100800
-2022-05-16 14:46:16,746 - ERROR - 'NoneType' object has no attribute 'group' für rooms - No Information AttributeError https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-muri-b-bern/7096320
-2022-05-16 14:46:16,747 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-muri-b-bern/7096320
-2022-05-16 14:46:16,763 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-muri-b-bern/7096320
-2022-05-16 14:46:21,223 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-schuepfen/7085378
-2022-05-16 14:46:21,652 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-urtenen-schoenbuehl/7082674
-2022-05-16 14:46:27,621 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7102399
-2022-05-16 14:46:28,573 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7099096
-2022-05-16 14:46:30,066 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7086781
-2022-05-16 14:46:33,160 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-frutigen/7078607
-2022-05-16 14:46:37,239 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/attikawohnung-mieten-bern/6747864
-2022-05-16 14:46:42,120 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-lyss/7105408
-2022-05-16 14:46:52,171 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bolligen/7098562
-2022-05-16 14:46:53,771 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/attikawohnung-mieten-bern/7094766
-2022-05-16 14:46:55,711 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7090482
-2022-05-16 14:47:11,476 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-huttwil/6581231
-2022-05-16 14:47:12,322 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6496416
-2022-05-16 14:47:13,650 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6430554
-2022-05-16 14:47:14,186 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6342832
-2022-05-16 14:47:14,805 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/studio-mieten-thun/6216959
-2022-05-16 14:47:15,250 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-laupen-be/6168663
-2022-05-16 14:47:15,690 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/5668187
-2022-05-16 14:47:16,977 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-bern/7107763
-2022-05-16 14:47:21,950 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7107435
-2022-05-16 14:47:25,368 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-unterseen/7102400
-2022-05-16 14:47:26,842 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7099228
-2022-05-16 14:47:27,649 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/loft-mieten-langenthal/7099141
-2022-05-16 14:47:35,430 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7096263
-2022-05-16 14:47:42,895 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7087623
-2022-05-16 14:47:43,252 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/studio-mieten-interlaken/7087254
-2022-05-16 14:47:46,554 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7083930
-2022-05-16 14:47:49,353 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-burgdorf/7083115
-2022-05-16 14:47:50,192 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7080703
-2022-05-16 14:47:50,210 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7080703
-2022-05-16 14:47:53,467 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-stettlen/7066417
-2022-05-16 14:47:54,270 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/loft-mieten-stettlen/7066398
-2022-05-16 14:47:55,540 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-jegenstorf/7063252
-2022-05-16 14:47:57,311 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7044054
-2022-05-16 14:48:02,643 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-aarberg/6989117
-2022-05-16 14:48:02,948 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6950301
-2022-05-16 14:48:03,263 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-koeniz/6938965
-2022-05-16 14:48:03,613 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-laupen-be/6837334
-2022-05-16 14:48:05,017 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-interlaken/6544464
-2022-05-16 14:48:06,505 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/5462334
-2022-05-16 14:48:06,823 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-huttwil/7107758
-2022-05-16 14:48:08,481 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7104718
-2022-05-16 14:48:13,295 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7104331
-2022-05-16 14:48:14,656 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/attikawohnung-mieten-bern/7103227
-2022-05-16 14:48:15,024 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7101623
-2022-05-16 14:48:17,877 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7098498
-2022-05-16 14:48:19,743 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-wynau/7098206
-2022-05-16 14:48:25,546 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-burgdorf/7096998
-2022-05-16 14:48:29,922 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-nidau/7093508
-2022-05-16 14:48:29,940 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-nidau/7093508
-2022-05-16 14:48:31,866 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-liebefeld/7089751
-2022-05-16 14:48:39,165 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-huttwil/7084136
-2022-05-16 14:48:42,529 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-kirchberg-be/7076587
-2022-05-16 14:48:45,969 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-biel-bienne/7073226
-2022-05-16 14:48:53,668 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-rubigen/7049649
-2022-05-16 14:48:54,320 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7032754
-2022-05-16 14:48:59,126 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-oberbipp/6614974
-2022-05-16 14:49:05,560 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6462108
-2022-05-16 14:49:07,632 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6299190
-2022-05-16 14:49:08,339 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-aeschi-b-spiez/6105705
-2022-05-16 14:49:09,014 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-koeniz/5615428
-2022-05-16 14:49:09,522 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/4792502
-2022-05-16 14:49:10,167 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/1816299
-2022-05-16 14:49:10,502 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7108162
-2022-05-16 14:49:10,521 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7108162
-2022-05-16 14:49:17,603 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-muensingen/7104177
-2022-05-16 14:49:26,624 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7099772
-2022-05-16 14:49:28,071 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-grossaffoltern/7099406
-2022-05-16 14:49:29,526 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ostermundigen/7098574
-2022-05-16 14:49:34,626 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7096959
-2022-05-16 14:49:36,218 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-burgdorf/7096321
-2022-05-16 14:49:36,598 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/duplex--maisonette-wohnung-mieten-bern/7096243
-2022-05-16 14:49:39,857 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7094518
-2022-05-16 14:49:40,565 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-meikirch/7093762
-2022-05-16 14:49:41,275 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-ruefenacht-be/7092654
-2022-05-16 14:49:41,297 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-ruefenacht-be/7092654
-2022-05-16 14:49:52,994 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-langenthal/7085738
-2022-05-16 14:50:01,150 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-bern/7082835
-2022-05-16 14:50:01,492 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-wabern/7082452
-2022-05-16 14:50:01,860 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7082451
-2022-05-16 14:50:03,260 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7082331
-2022-05-16 14:50:06,706 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/loft-mieten-langenthal/7073156
-2022-05-16 14:50:07,591 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-steffisburg/7069719
-2022-05-16 14:50:08,844 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/attikawohnung-mieten-oberburg/7068615
-2022-05-16 14:50:09,194 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068614
-2022-05-16 14:50:09,739 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/attikawohnung-mieten-oberburg/7068613
-2022-05-16 14:50:10,288 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068611
-2022-05-16 14:50:13,820 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068610
-2022-05-16 14:50:14,355 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068607
-2022-05-16 14:50:14,701 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068606
-2022-05-16 14:50:15,194 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/attikawohnung-mieten-oberburg/7068604
-2022-05-16 14:50:15,700 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068603
-2022-05-16 14:50:16,031 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068601
-2022-05-16 14:50:16,520 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/attikawohnung-mieten-oberburg/7068600
-2022-05-16 14:50:17,020 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068598
-2022-05-16 14:50:17,582 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068596
-2022-05-16 14:50:18,158 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068595
-2022-05-16 14:50:18,730 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068594
-2022-05-16 14:50:19,087 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-zimmerwald/7068567
-2022-05-16 14:50:19,106 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-zimmerwald/7068567
-2022-05-16 14:50:19,554 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7066489
-2022-05-16 14:50:20,569 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-stettlen/7066436
-2022-05-16 14:50:20,949 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-stettlen/7066406
-2022-05-16 14:50:23,000 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-bern/7039677
-2022-05-16 14:50:28,754 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-wiedlisbach/7032355
-2022-05-16 14:50:29,490 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7025917
-2022-05-16 14:50:30,178 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ittigen/7018320
-2022-05-16 14:50:30,939 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-urtenen-schoenbuehl/6979384
-2022-05-16 14:50:33,661 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-langenthal/6903174
-2022-05-16 14:50:34,464 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6747083
-2022-05-16 14:50:37,239 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6506411
-2022-05-16 14:50:38,449 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-huttwil/6354096
-2022-05-16 14:50:39,022 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-gwatt-thun/6332459
-2022-05-16 14:50:39,666 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-oberbalm/6296621
-2022-05-16 14:50:44,358 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/5519494
-2022-05-16 14:50:45,840 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7108153
-2022-05-16 14:50:45,858 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7108153
-2022-05-16 14:50:46,778 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-huttwil/7107759
-2022-05-16 14:50:47,113 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-kirchberg-be/7107491
-2022-05-16 14:50:49,560 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bueren-an-der-aare/7101609
-2022-05-16 14:50:50,339 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7101238
-2022-05-16 14:50:51,575 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-utzenstorf/7100927
-2022-05-16 14:50:52,045 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-kirchberg-be/7098575
-2022-05-16 14:50:59,021 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7097807
-2022-05-16 14:51:03,495 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7094190
-2022-05-16 14:51:05,128 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-schuepbach/7093761
-2022-05-16 14:51:08,656 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-muensingen/7093570
-2022-05-16 14:51:09,000 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bellmund/7093506
-2022-05-16 14:51:09,774 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7091685
-2022-05-16 14:51:11,486 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-liebefeld/7090367
-2022-05-16 14:51:12,578 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-bern/7089975
-2022-05-16 14:51:13,282 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-burgdorf/7089394
-2022-05-16 14:51:14,549 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ostermundigen/7088323
-2022-05-16 14:51:15,764 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7087991
-2022-05-16 14:51:16,097 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/loft-mieten-bern/7087582
-2022-05-16 14:51:16,829 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7086827
-2022-05-16 14:51:16,846 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7086827
-2022-05-16 14:51:18,027 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ostermundigen/7086507
-2022-05-16 14:51:22,060 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7084042
-2022-05-16 14:51:23,898 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7082678
-2022-05-16 14:51:25,038 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7079944
-2022-05-16 14:51:25,429 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7079921
-2022-05-16 14:51:25,788 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7079911
-2022-05-16 14:51:26,501 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7077271
-2022-05-16 14:51:27,363 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/reihen-einfamilienhaus-mieten-laupen-be/7076546
-2022-05-16 14:51:27,719 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7076100
-2022-05-16 14:51:28,678 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-utzenstorf/7075512
-2022-05-16 14:51:29,436 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-herzogenbuchsee/7075511
-2022-05-16 14:51:36,008 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7073233
-2022-05-16 14:51:38,860 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7070808
-2022-05-16 14:51:39,344 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7069209
-2022-05-16 14:51:40,667 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-muenchenbuchsee/7063491
-2022-05-16 14:51:41,766 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7063209
-2022-05-16 14:51:43,386 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-adelboden/7060577
-2022-05-16 14:51:43,404 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-adelboden/7060577
-2022-05-16 14:51:43,797 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7060469
-2022-05-16 14:51:46,638 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7059925
-2022-05-16 14:51:47,095 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-baetterkinden/7059873
-2022-05-16 14:51:50,307 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ringgenberg-be/7050482
-2022-05-16 14:51:51,030 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ostermundigen/7049646
-2022-05-16 14:51:51,737 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7044311
-2022-05-16 14:51:52,610 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-huttwil/7042751
-2022-05-16 14:51:53,003 - ERROR - 'NoneType' object has no attribute 'group' für rooms - No Information AttributeError https://www.immoscout24.ch/de/d/wohnung-mieten-utzenstorf/7037409
-2022-05-16 14:51:53,004 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-utzenstorf/7037409
-2022-05-16 14:51:53,335 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7036643
-2022-05-16 14:51:54,410 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-sigriswil/7032271
+2022-05-17 08:40:53,759 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-schuepbach/7108484
+2022-05-17 08:40:54,066 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-schwarzenburg/7108494
+2022-05-17 08:40:54,084 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-schwarzenburg/7108494
+2022-05-17 08:40:54,519 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-nidau/7093508
+2022-05-17 08:40:54,538 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-nidau/7093508
+2022-05-17 08:40:55,593 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-niederbipp/6927624
+2022-05-17 08:40:55,973 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-niederbipp/7024065
+2022-05-17 08:40:56,379 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/moebliertes-wohnobjekt-mieten-bern/7093905
+2022-05-17 08:40:57,375 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/loft-mieten-bern/1572961
+2022-05-17 08:41:01,045 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7108289
+2022-05-17 08:41:05,987 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-stettlen/6858167
+2022-05-17 08:41:06,674 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-oberbipp/6901902
+2022-05-17 08:41:07,414 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6976530
+2022-05-17 08:41:07,778 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6963683
+2022-05-17 08:41:08,521 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6055785
+2022-05-17 08:41:12,951 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/reihen-einfamilienhaus-mieten-gwatt-thun/7106702
+2022-05-17 08:41:13,264 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-zollbrueck/7106703
+2022-05-17 08:41:15,732 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7106642
+2022-05-17 08:41:19,025 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/duplex--maisonette-wohnung-mieten-bueren-zum-hof/7105352
+2022-05-17 08:41:20,130 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/dachwohnung-mieten-wangen-an-der-aare/7099601
+2022-05-17 08:41:23,498 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-ittigen/7103273
+2022-05-17 08:41:25,283 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7084015
+2022-05-17 08:41:26,270 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7050275
+2022-05-17 08:41:27,066 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-interlaken/7037471
+2022-05-17 08:41:27,811 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-interlaken/7037467
+2022-05-17 08:41:28,207 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-interlaken/7037469
+2022-05-17 08:41:28,642 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-interlaken/7037468
+2022-05-17 08:41:29,940 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-reconvilier/7019527
+2022-05-17 08:41:32,160 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-safnern/7103492
+2022-05-17 08:41:35,552 - ERROR - 'NoneType' object has no attribute 'text' für rooms - rooms nicht in h2 https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7083985
+2022-05-17 08:41:35,553 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7083985
+2022-05-17 08:41:35,976 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-pieterlen/4120184
+2022-05-17 08:41:38,349 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/2990656
+2022-05-17 08:41:38,677 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-nidau/6951667
+2022-05-17 08:41:39,001 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7080317
+2022-05-17 08:41:41,806 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-guemligen/7100958
+2022-05-17 08:41:42,825 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ipsach/7029340
+2022-05-17 08:41:48,985 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einzelzimmer-mieten-finsterhennen/7100559
+2022-05-17 08:41:49,003 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einzelzimmer-mieten-finsterhennen/7100559
+2022-05-17 08:41:50,108 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7100465
+2022-05-17 08:41:50,823 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-zollbrueck/6957911
+2022-05-17 08:41:54,264 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7099265
+2022-05-17 08:41:54,657 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/studio-mieten-dieterswil/6937520
+2022-05-17 08:41:56,140 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-niederscherli/7098523
+2022-05-17 08:41:56,159 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-niederscherli/7098523
+2022-05-17 08:41:56,499 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7098481
+2022-05-17 08:41:56,849 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7043410
+2022-05-17 08:41:59,850 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thoerishaus/5854005
+2022-05-17 08:42:01,236 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/5829509
+2022-05-17 08:42:03,027 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-zollikofen/7097049
+2022-05-17 08:42:03,376 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-muenchenbuchsee/7097168
+2022-05-17 08:42:04,581 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-jegenstorf/7096964
+2022-05-17 08:42:06,775 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-nidau/7043855
+2022-05-17 08:42:07,516 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ostermundigen/3214085
+2022-05-17 08:42:12,302 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-laupen-be/6852360
+2022-05-17 08:42:13,041 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-signau/6642359
+2022-05-17 08:42:14,148 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-muensingen/7090400
+2022-05-17 08:42:14,171 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-muensingen/7090400
+2022-05-17 08:42:14,534 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ostermundigen/7093479
+2022-05-17 08:42:17,295 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7037455
+2022-05-17 08:42:17,649 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ittigen/6480771
+2022-05-17 08:42:17,982 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-niederwangen-b-bern/7090299
+2022-05-17 08:42:18,005 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-niederwangen-b-bern/7090299
+2022-05-17 08:42:25,237 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-evilard/7087558
+2022-05-17 08:42:26,326 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7087560
+2022-05-17 08:42:27,413 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7086607
+2022-05-17 08:42:28,449 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/5713651
+2022-05-17 08:42:29,558 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-zimmerwald/7084109
+2022-05-17 08:42:30,290 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/dachwohnung-mieten-gerzensee/7084083
+2022-05-17 08:42:31,314 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6649556
+2022-05-17 08:42:31,964 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-scharnachtal/5129166
+2022-05-17 08:42:38,072 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-hindelbank/4630686
+2022-05-17 08:42:38,429 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ipsach/6825390
+2022-05-17 08:42:39,150 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/duplex--maisonette-wohnung-mieten-zweisimmen/7082289
+2022-05-17 08:42:40,997 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/mansarde-mieten-bern/7082169
+2022-05-17 08:42:41,516 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bolligen/5721081
+2022-05-17 08:42:41,850 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/mansarde-mieten-bern/6476237
+2022-05-17 08:42:42,496 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-koppigen/6780767
+2022-05-17 08:42:43,241 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-tavannes/6666111
+2022-05-17 08:42:43,591 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/attikawohnung-mieten-biel-bienne/6704216
+2022-05-17 08:42:43,985 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/duplex--maisonette-wohnung-mieten-st-imier/6736990
+2022-05-17 08:42:44,964 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7062426
+2022-05-17 08:42:45,311 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6008663
+2022-05-17 08:42:45,648 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6981942
+2022-05-17 08:42:46,017 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6981836
+2022-05-17 08:42:46,373 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6755067
+2022-05-17 08:42:50,858 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-rueschegg-gambach/7080855
+2022-05-17 08:42:52,222 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-heimberg/6933450
+2022-05-17 08:42:52,613 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7002255
+2022-05-17 08:42:52,976 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7079951
+2022-05-17 08:42:53,333 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7079907
+2022-05-17 08:42:54,084 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7079288
+2022-05-17 08:42:55,808 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-langenthal/7070690
+2022-05-17 08:42:56,873 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7008643
+2022-05-17 08:42:57,653 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7073063
+2022-05-17 08:43:04,532 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-lyss/7071794
+2022-05-17 08:43:04,554 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-lyss/7071794
+2022-05-17 08:43:06,317 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-liebefeld/7071573
+2022-05-17 08:43:06,682 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7024399
+2022-05-17 08:43:07,393 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-busswil-be/6930552
+2022-05-17 08:43:07,765 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-konolfingen/6773179
+2022-05-17 08:43:08,817 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-lenk-im-simmental/7027884
+2022-05-17 08:43:08,834 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/dachwohnung-mieten-lenk-im-simmental/7027884
+2022-05-17 08:43:09,155 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-urtenen-schoenbuehl/7066953
+2022-05-17 08:43:10,879 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-lyss/7068182
+2022-05-17 08:43:17,987 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/moebliertes-wohnobjekt-mieten-wengen/7039222
+2022-05-17 08:43:18,382 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/moebliertes-wohnobjekt-mieten-aeschi-b-spiez/6879548
+2022-05-17 08:43:19,482 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/duplex--maisonette-wohnung-mieten-moosseedorf/7010677
+2022-05-17 08:43:19,804 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einzelzimmer-mieten-oberburg/7062139
+2022-05-17 08:43:19,820 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einzelzimmer-mieten-oberburg/7062139
+2022-05-17 08:43:20,197 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-schwarzenburg/6867921
+2022-05-17 08:43:21,642 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/duplex--maisonette-wohnung-mieten-bern/3334951
+2022-05-17 08:43:23,353 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-ins/6833611
+2022-05-17 08:43:24,527 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7048274
+2022-05-17 08:43:25,582 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-zollbrueck/6992976
+2022-05-17 08:43:30,762 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-nidau/7032281
+2022-05-17 08:43:31,749 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-attiswil/6858096
+2022-05-17 08:43:32,602 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-riggisberg/7037531
+2022-05-17 08:43:33,022 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-guemligen/7036401
+2022-05-17 08:43:33,716 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-laupen-be/7032261
+2022-05-17 08:43:34,763 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6930474
+2022-05-17 08:43:35,095 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-langenthal/6976039
+2022-05-17 08:43:36,599 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7019440
+2022-05-17 08:43:37,320 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-taeuffelen/6417870
+2022-05-17 08:43:37,702 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-boll/6687012
+2022-05-17 08:43:38,378 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7005984
+2022-05-17 08:43:38,716 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6907333
+2022-05-17 08:43:39,110 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-malleray/6944964
+2022-05-17 08:43:45,126 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6993879
+2022-05-17 08:43:46,222 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-moutier/6796528
+2022-05-17 08:43:47,783 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-aarwangen/5376277
+2022-05-17 08:43:49,913 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/5946040
+2022-05-17 08:43:50,333 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6867429
+2022-05-17 08:43:51,103 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6913539
+2022-05-17 08:43:51,819 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-thoerishaus/6880464
+2022-05-17 08:43:52,653 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6852170
+2022-05-17 08:43:55,458 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6811175
+2022-05-17 08:43:56,217 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-aarwangen/6351706
+2022-05-17 08:43:56,561 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/6757321
+2022-05-17 08:43:57,021 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6752617
+2022-05-17 08:43:57,811 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ruefenacht-be/5083311
+2022-05-17 08:43:59,301 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-moutier/6350279
+2022-05-17 08:44:00,132 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6275755
+2022-05-17 08:44:00,497 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-perrefitte/6234145
+2022-05-17 08:44:01,595 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-tavannes/4817426
+2022-05-17 08:44:02,377 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-huttwil/5584421
+2022-05-17 08:44:03,954 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-rohrbach/5257912
+2022-05-17 08:44:04,309 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-tavannes/4817403
+2022-05-17 08:44:08,137 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/1652826
+2022-05-17 08:44:11,323 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-worblaufen/7104157
+2022-05-17 08:44:11,645 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-burgdorf/7100808
+2022-05-17 08:44:12,068 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-burgdorf/7100800
+2022-05-17 08:44:23,183 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-schuepfen/7085378
+2022-05-17 08:44:25,524 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7108485
+2022-05-17 08:44:27,928 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7102399
+2022-05-17 08:44:31,637 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7099096
+2022-05-17 08:44:31,979 - ERROR - 'NoneType' object has no attribute 'group' für rooms - No Information AttributeError https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-muri-b-bern/7096320
+2022-05-17 08:44:31,980 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-muri-b-bern/7096320
+2022-05-17 08:44:31,998 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-muri-b-bern/7096320
+2022-05-17 08:44:35,268 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-frutigen/7078607
+2022-05-17 08:44:39,862 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7108372
+2022-05-17 08:44:44,343 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7108162
+2022-05-17 08:44:44,362 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7108162
+2022-05-17 08:45:00,171 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/attikawohnung-mieten-bern/7094766
+2022-05-17 08:45:01,934 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7090482
+2022-05-17 08:45:12,156 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-koeniz/7052253
+2022-05-17 08:45:16,462 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-huttwil/6581231
+2022-05-17 08:45:17,542 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6342832
+2022-05-17 08:45:18,058 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/5668187
+2022-05-17 08:45:18,394 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7109917
+2022-05-17 08:45:19,002 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-aarwangen/7108760
+2022-05-17 08:45:19,437 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bruegg-be/7108367
+2022-05-17 08:45:19,896 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7108153
+2022-05-17 08:45:19,915 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7108153
+2022-05-17 08:45:28,009 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-unterseen/7102400
+2022-05-17 08:45:29,572 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7099228
+2022-05-17 08:45:38,018 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7087623
+2022-05-17 08:45:38,362 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/studio-mieten-interlaken/7087254
+2022-05-17 08:45:41,644 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7083930
+2022-05-17 08:45:43,526 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7080703
+2022-05-17 08:45:43,547 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7080703
+2022-05-17 08:45:49,608 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-stettlen/7066417
+2022-05-17 08:45:50,066 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/loft-mieten-stettlen/7066398
+2022-05-17 08:45:52,440 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7044054
+2022-05-17 08:45:55,251 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7029467
+2022-05-17 08:45:55,952 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-aarberg/6989117
+2022-05-17 08:45:56,289 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-laupen-be/6837334
+2022-05-17 08:46:00,802 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-interlaken/6544464
+2022-05-17 08:46:02,662 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-huttwil/7107758
+2022-05-17 08:46:03,311 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-kirchberg-be/7107491
+2022-05-17 08:46:04,427 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7104718
+2022-05-17 08:46:07,852 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/attikawohnung-mieten-bern/7103227
+2022-05-17 08:46:08,320 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7101623
+2022-05-17 08:46:15,131 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7098498
+2022-05-17 08:46:16,487 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-wynau/7098206
+2022-05-17 08:46:24,590 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-liebefeld/7089751
+2022-05-17 08:46:30,928 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-huttwil/7084136
+2022-05-17 08:46:33,747 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-kirchberg-be/7076587
+2022-05-17 08:46:48,271 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-oberbipp/6614974
+2022-05-17 08:46:49,932 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6496416
+2022-05-17 08:46:50,303 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6462108
+2022-05-17 08:46:55,320 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/6299190
+2022-05-17 08:46:55,672 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/studio-mieten-thun/6216959
+2022-05-17 08:46:56,026 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-laupen-be/6168663
+2022-05-17 08:46:58,963 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-aeschi-b-spiez/6105705
+2022-05-17 08:46:59,614 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-koeniz/5615428
+2022-05-17 08:47:00,248 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/5462334
+2022-05-17 08:47:00,619 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/4792502
+2022-05-17 08:47:01,825 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7109935
+2022-05-17 08:47:01,842 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7109935
+2022-05-17 08:47:04,055 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-muensingen/7104177
+2022-05-17 08:47:10,859 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7101015
+2022-05-17 08:47:11,253 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-koeniz/7101011
+2022-05-17 08:47:13,690 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-grossaffoltern/7099406
+2022-05-17 08:47:15,055 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ostermundigen/7098574
+2022-05-17 08:47:17,449 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7096263
+2022-05-17 08:47:18,460 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7094518
+2022-05-17 08:47:23,190 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-meikirch/7093762
+2022-05-17 08:47:23,926 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-ruefenacht-be/7092654
+2022-05-17 08:47:35,539 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-langenthal/7085738
+2022-05-17 08:47:38,649 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-bern/7082835
+2022-05-17 08:47:39,347 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7082451
+2022-05-17 08:47:40,773 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7082331
+2022-05-17 08:47:49,570 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/attikawohnung-mieten-oberburg/7068615
+2022-05-17 08:47:50,204 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068614
+2022-05-17 08:47:50,225 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068614
+2022-05-17 08:47:50,780 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/attikawohnung-mieten-oberburg/7068613
+2022-05-17 08:47:51,172 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068611
+2022-05-17 08:47:51,717 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068610
+2022-05-17 08:47:52,212 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068607
+2022-05-17 08:47:52,746 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068606
+2022-05-17 08:47:53,285 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068603
+2022-05-17 08:47:53,777 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068601
+2022-05-17 08:47:54,339 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/attikawohnung-mieten-oberburg/7068600
+2022-05-17 08:47:54,877 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068598
+2022-05-17 08:47:55,252 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068596
+2022-05-17 08:47:56,035 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068595
+2022-05-17 08:47:56,055 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068595
+2022-05-17 08:47:56,583 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-oberburg/7068594
+2022-05-17 08:47:56,895 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-zimmerwald/7068567
+2022-05-17 08:47:56,913 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/einfamilienhaus-mieten-zimmerwald/7068567
+2022-05-17 08:47:57,281 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7066489
+2022-05-17 08:47:58,218 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-stettlen/7066436
+2022-05-17 08:47:58,870 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-stettlen/7066406
+2022-05-17 08:47:59,204 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-jegenstorf/7063252
+2022-05-17 08:48:06,319 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-bern/7039677
+2022-05-17 08:48:07,949 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7025917
+2022-05-17 08:48:08,648 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ittigen/7018320
+2022-05-17 08:48:09,316 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-urtenen-schoenbuehl/6979384
+2022-05-17 08:48:10,064 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6950301
+2022-05-17 08:48:10,770 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-koeniz/6938965
+2022-05-17 08:48:13,775 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6506411
+2022-05-17 08:48:18,297 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-oberbalm/6296621
+2022-05-17 08:48:19,333 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/5519494
+2022-05-17 08:48:21,712 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-la-neuveville/7108964
+2022-05-17 08:48:24,944 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-huttwil/7107759
+2022-05-17 08:48:25,803 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7107480
+2022-05-17 08:48:26,573 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7107265
+2022-05-17 08:48:31,457 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bueren-an-der-aare/7101609
+2022-05-17 08:48:32,178 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7101238
+2022-05-17 08:48:33,516 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-utzenstorf/7100927
+2022-05-17 08:48:34,061 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-kirchberg-be/7098575
+2022-05-17 08:48:34,471 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7098509
+2022-05-17 08:48:36,303 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7097807
+2022-05-17 08:48:37,392 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-burgdorf/7096998
+2022-05-17 08:48:45,049 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-steffisburg/7094860
+2022-05-17 08:48:46,295 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7094190
+2022-05-17 08:48:48,291 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-schuepbach/7093761
+2022-05-17 08:48:49,802 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-muensingen/7093570
+2022-05-17 08:48:50,149 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bellmund/7093506
+2022-05-17 08:48:50,567 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-liebefeld/7090692
+2022-05-17 08:48:52,396 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-bern/7089975
+2022-05-17 08:48:53,287 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-burgdorf/7089394
+2022-05-17 08:49:00,328 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-thun/7087991
+2022-05-17 08:49:01,425 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7086827
+2022-05-17 08:49:01,442 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7086827
+2022-05-17 08:49:04,418 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7084042
+2022-05-17 08:49:06,210 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7082678
+2022-05-17 08:49:07,243 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7079944
+2022-05-17 08:49:12,603 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7079921
+2022-05-17 08:49:12,947 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7079911
+2022-05-17 08:49:13,663 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7077271
+2022-05-17 08:49:14,364 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/reihen-einfamilienhaus-mieten-laupen-be/7076546
+2022-05-17 08:49:14,715 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7076100
+2022-05-17 08:49:15,479 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-utzenstorf/7075512
+2022-05-17 08:49:15,913 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-herzogenbuchsee/7075511
+2022-05-17 08:49:17,682 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-biel-bienne/7073226
+2022-05-17 08:49:18,748 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7070808
+2022-05-17 08:49:19,198 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7069209
+2022-05-17 08:49:19,585 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-wimmis/7068849
+2022-05-17 08:49:20,521 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-muenchenbuchsee/7063491
+2022-05-17 08:49:26,802 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7063209
+2022-05-17 08:49:28,291 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-adelboden/7060577
+2022-05-17 08:49:28,314 - ERROR - list index out of range for net_rent - No Information Index https://www.immoscout24.ch/de/d/wohnung-mieten-adelboden/7060577
+2022-05-17 08:49:28,706 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7060469
+2022-05-17 08:49:29,536 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-biel-bienne/7059925
+2022-05-17 08:49:29,877 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-baetterkinden/7059873
+2022-05-17 08:49:31,423 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-langenthal/7057457
+2022-05-17 08:49:32,988 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-ringgenberg-be/7050482
+2022-05-17 08:49:35,077 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-huttwil/7042751
+2022-05-17 08:49:35,412 - ERROR - 'NoneType' object has no attribute 'group' für rooms - No Information AttributeError https://www.immoscout24.ch/de/d/wohnung-mieten-utzenstorf/7037409
+2022-05-17 08:49:35,413 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-utzenstorf/7037409
+2022-05-17 08:49:40,508 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7032754
+2022-05-17 08:49:40,973 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-sigriswil/7032271
+2022-05-17 08:49:42,055 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7025757
+2022-05-17 08:49:42,394 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/dachwohnung-mieten-bern/7005607
+2022-05-17 08:49:42,720 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/7005260
+2022-05-17 08:49:46,126 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-bern/6914163
+2022-05-17 08:49:46,872 - ERROR - 'NoneType' object has no attribute 'next_sibling' for area - No Information Attribute https://www.immoscout24.ch/de/d/wohnung-mieten-wabern/6910503

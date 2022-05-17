@@ -10,6 +10,7 @@ from datetime import datetime
 import logging
 from headers import header
 
+# Spezifiziere Logging Setup
 logging.basicConfig(level=logging.INFO, filename="Log/Immoscout_log.log", filemode="w",
                     format="%(asctime)s - %(levelname)s - %(message)s")
 

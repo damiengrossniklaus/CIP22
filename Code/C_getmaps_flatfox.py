@@ -1,21 +1,16 @@
-import requests
 import time
 import datetime
 import re
-from bs4 import BeautifulSoup
-from requests_html import HTMLSession
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.chrome.options import Options
 
 start = time.time()
 
-#urls_BE = ['https://flatfox.ch/de/search/?east=7.508298&north=47.029661&object_category=APARTMENT&object_category=HOUSE&object_category=SHARED&query=Bern&south=46.869791&west=7.307066']
 urls_BE = ['https://flatfox.ch/de/search/?east=8.528568&north=47.497424&object_category=APARTMENT&object_category=HOUSE&offer_type=RENT&query=Kanton%20Bern&south=46.038148&west=6.957679']
 
 def get_coords(url):
-    """get coordinates out of flatfox-url."""
+    """Function to get coordinates out of flatfox-url."""
     coords = {}
     elm_link = url.split('search/?')  # only consider part after base url
     cardinal_points = ['north', 'west', 'south', 'east']
@@ -26,7 +21,7 @@ def get_coords(url):
         coords[key] = value
 
     coords2 = {key: float(coords[key]) for key in
-               cardinal_points}  # dict comprehension to keep only points of compass and exclude other query elements.
+               cardinal_points}  # dict comprehension to keep only coordinates and exclude other query elements.
     return coords2
 
 
@@ -63,7 +58,8 @@ def transform_coords(url):
 
 
 def split_map(url):
-    """Split map into 4 quadrants part 2; automatically generate links for the new quadrants."""
+    """Split map into 4 quadrants part 2; automatically generate links for the new quadrants.
+    Rturn list of 4 new links."""
     coords_url = transform_coords(url)
 
     card_dir = ['north', 'west', 'south', 'east']
@@ -72,14 +68,16 @@ def split_map(url):
     for j in range(4):
         url2 = url
         for i in card_dir:
-            pattern = f'{i}=\d+.\d+'  # regex pattern
-            url2 = re.sub(pattern, f'{i}={str(coords_url[j][i])}', url2)
+            pattern = f'{i}=\d+.\d+'  # regex pattern to find the coordinates in link,
+                                    # e.g. '...north=47.315...' for north, west, south & east
+            url2 = re.sub(pattern, f'{i}={str(coords_url[j][i])}', url2) # replace with new coordinates
         links_quad.append(url2)
     return links_quad
 
 
 # set warning count:
 count_warn = 1
+
 def check_links(map_links):
     """Evaluate for a list of links if the map of the respective link displays more than 400 elements (warning)"""
     global count_warn
@@ -87,7 +85,7 @@ def check_links(map_links):
     links_res = []
     for link in map_links:
         driver.get(link)
-        time.sleep(1)
+        time.sleep(4)
         try:
             warn = driver.find_element(by=By.XPATH,
                                        value='//*[@id="flat-search-widget"]/div/div[2]/div[1]/div/span/div').text
@@ -97,15 +95,16 @@ def check_links(map_links):
             for i in new_links:
                 links_res.append(i)
         except:
-            links_res.append(link)
+            links_res.append(link)  # append the link if there is no warning
     return links_res
 
 
 if __name__ == "__main__":
 
+    # uncomment for headless selenium:
     chrome_options = Options()
-    chrome_options.add_argument("--headless")
-    chrome_options.add_argument("--window-size=1000,500")    # Window size is important for the shape of the map
+    #chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--window-size=1536,864")    # Window size is important for the shape of the map
     driver = webdriver.Chrome(options=chrome_options)
 
     while count_warn != 0:  # end loop as soon as no link returns a > 400 warning
@@ -125,4 +124,4 @@ if __name__ == "__main__":
 
     end = time.time()
     print(f"Done. The links of the maps were generated. \nThey are written in the file 'map_links_{now_string}.txt'",
-          f"\n elapsed time: ", ((end - start) / 60), "(min)")
+          f"\n elapsed time: ", round(((end - start) / 60), 2), "(min)")

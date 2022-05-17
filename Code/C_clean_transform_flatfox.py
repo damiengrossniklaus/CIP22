@@ -301,7 +301,6 @@ def main():
 
 
     # reorder columns:
-
     df_flatfox = df_flatfox[['rooms', 'area', 'gross_rent', 'net_rent', 'plz', 'street', 'place', 'build_ren_year',
                              'balcony_terrace', 'pets', 'elevator', 'car_spot', 'minergie', 'wheelchair_access',
                              'new_building', 'washmachine', 'dishwasher', 'price_sqrm', 'room_price', 'avg_room_size',
