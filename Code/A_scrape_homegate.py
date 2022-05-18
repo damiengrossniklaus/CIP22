@@ -21,6 +21,7 @@ logging.basicConfig(level=logging.INFO, filename="Log/homegate_log.log", filemod
 def get_urls(url: str) -> list[str]:
     '''
     Erstellt eine Liste mit URLs, welche gescraped werden sollen.
+    Test add
 
     :param url: str: Homegate URL mit Suchkriterium (Kanton Bern)
     :return: list[str]: Liste mit URLs welche jeweils mehrere (ca. 20) Mietobjekte aufführen.
