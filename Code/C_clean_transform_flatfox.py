@@ -1,12 +1,11 @@
 import pandas as pd
 import numpy as np
-import numpy as np
 import re
 from C_scrape_flatfox import name_curr_file
 pd.options.mode.chained_assignment = None
 
 
-# replace without regex:
+# replace:
 def repl_str(col):
     """replace unwanted strings in int columns."""
     col2 = col.replace("CHF ", "", regex=True
@@ -14,7 +13,7 @@ def repl_str(col):
                                  ).astype(dtype=float, errors="ignore")
     return col2
 
-# All desired variables are contained, except for "Neubau". Add the desired variables, i.e. columns:
+# Add the desired variables, i.e. columns:
 
 def create_new_var(str_rep, column, df):
     """Create new boolean variable for occurrence of attributes (e.g., balcony) in 'infos' col"""
@@ -74,8 +73,7 @@ def main():
     df_flatfox = pd.read_csv(rf'../Data/src/{filename_dirty}')
 
     # filter (only objects in the canton of Bern):
-
-    # import plz list of canton of bern:
+    # import plz list of canton of bern
     plz_be = pd.read_csv(r'results/geodata/plz_be_list.csv')
     plz_be_list = plz_be['x'].tolist()
 
@@ -86,7 +84,7 @@ def main():
     #print(type(plz_be_list))
 
 
-    #df_flatfox = df_flatfox.loc[(df_flatfox['plz'] > 2999) & (df_flatfox['plz'] < 4000)]
+
 
     # reset index after filtering:
     df_flatfox = df_flatfox.reset_index(drop=True)
@@ -143,17 +141,17 @@ def main():
     df_flatfox['build_ren_year'] = list_year
 
     # Check all unique values in infos-column, how much information is contained in this col?:
-    df_infos = df_flatfox[df_flatfox['infos'].notnull()]  # drop NaNs first
-    df_infos = df_infos.reset_index()
+    #df_infos = df_flatfox[df_flatfox['infos'].notnull()]  # drop NaNs first
+    #df_infos = df_infos.reset_index()
 
-    lst_attrs = []
-    [[lst_attrs.append(i.strip()) for i in df_infos['infos'][j].split(",")] for j in range(len(df_infos['infos']))]
-    set_attrs = set(lst_attrs)
+    #lst_attrs = []
+    #[[lst_attrs.append(i.strip()) for i in df_infos['infos'][j].split(",")] for j in range(len(df_infos['infos']))]
+    #set_attrs = set(lst_attrs)
 
     # have a look at all possible entries of this column:
     # [print(i) for i in set_attrs]
 
-    # All desired variables are contained in info, except for "Neubau". Add the desired variables, i.e. columns:
+    # Not all desired variables are contained in info. Add the desired variables, i.e. columns:
 
     df_flatfox['balcony_terrace_infos'] = create_new_var("Balkon/Sitzplatz", 'infos', df_flatfox)
     df_flatfox['pets_infos'] = create_new_var("Haustiere", 'infos', df_flatfox)

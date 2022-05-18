@@ -1,4 +1,7 @@
 # A_scrape_homegate.py
+
+
+
 import logging
 from bs4 import BeautifulSoup
 import requests
@@ -8,6 +11,9 @@ import time
 from datetime import datetime
 from headers import header
 
+
+
+# Erstellen des Fehler log setup
 logging.basicConfig(level=logging.INFO, filename="Log/homegate_log.log", filemode="w",
                     format="%(asctime)s - %(levelname)s - %(message)s")
 
@@ -118,9 +124,7 @@ def parse_object_links(object_links: list[str]) -> pd.DataFrame:
             print(f"cloudflare error, {ap_counter} apartements scraped at {now}")
 
             time.sleep(240)
-            #ap = requests.get(i, headers = header()).text
-            # parsing the html code using lxml-parser:
-            #ap_soup = BeautifulSoup(ap, "lxml")
+
 
 
 
@@ -198,13 +202,14 @@ def parse_object_links(object_links: list[str]) -> pd.DataFrame:
             if "Renovationsjahr" in i.text:
                 try:
                     d["build_ren_year"] = int(re.search("Renovationsjahr: (\d{4})", i.text).group(1))
-                except:
-                    AttributeError
+                except AttributeError as e:
+                    logging.error(f"{e} rennovationsjahr nicht in description {l}")
             elif "Baujahr" in str(build_year):
                 try:
                     d["build_ren_year"] = int(re.search("Baujahr: (\d{4})", i.text).group(1))
-                except:
-                    AttributeError
+                except AttributeError as e:
+                    logging.error(f"{e} rennovationsjahr nicht in description {l}")
+
             else:
                 d["build_ren_year"] = "no information"
 
@@ -279,8 +284,7 @@ def scrape_homegate():
     print(f"process finished at {file_creation}. \n"
           f"files created: \n "
           f"- ../Data/src/archive/A_homegate_{file_creation}_src.csv \n "
-          f"- ../Data/src/A_homegate_newest_src.csv \n"
-          f"total rows: {len(df_apartments)}")
+          f"- ../Data/src/A_homegate_newest_src.csv \n")
 
 
 
