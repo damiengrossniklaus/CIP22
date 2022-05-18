@@ -52,7 +52,7 @@ def upload_data_to_db():
                      url_flatfox VARCHAR(150))""")
 
     # Lade Daten in Tabelle auf MariaDB
-    mycursor.execute("""LOAD DATA LOCAL INFILE '../Data/stage/joined_newest_stage.csv' 
+    mycursor.execute("""LOAD DATA LOCAL INFILE '../Data/joined/df_joined_stage.csv' 
                             INTO TABLE  All_objects_clean_table 
                             FIELDS TERMINATED BY ',' 
                             IGNORE 1 LINES""")

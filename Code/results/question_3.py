@@ -36,6 +36,8 @@ def get_data_from_db(table):
 
     # Schliesse Verbindung zu MariaDB
     engine.dispose()
+    print(df.head())
+    print(df.info())
 
     return df
 
@@ -56,12 +58,12 @@ def urban_vs_rural_price_sqrm(df_apt, df_pop):
     df_combined = df_apt.merge(df_pop, left_on='plz', right_on='Plz')
     df_combined['urban_rural'] = df_combined['Total'].apply(lambda x: 'urban' if x >= 10000 else 'rural')
 
-
+    df_combined = df_combined[df_combined['price_sqrm'] > 0]
     df_result3_a = df_combined[['urban_rural', 'price_sqrm']].groupby(['urban_rural']).mean().reset_index()
 
-
-    plt.hist(df_combined[df_combined['urban_rural'] == "urban"]['price_sqrm'], alpha=0.5, bins=25)
-    plt.hist(df_combined[df_combined['urban_rural'] == "rural"]['price_sqrm'], alpha=0.5, bins=25)
+    plt.hist(df_combined[df_combined['urban_rural'] == "urban"]['price_sqrm'], alpha=0.5, bins=25, label="urban")
+    plt.hist(df_combined[df_combined['urban_rural'] == "rural"]['price_sqrm'], alpha=0.5, bins=25, range = (0, 100), label="rural")
+    plt.legend(['urban', 'rural'])
     plt.show()
 
   
@@ -137,7 +139,7 @@ def writeExcel(df_result_3a, df_result_3b):
     '''
 
     # Erstellen der Excel Arbeitsmappe
-    result3 = 'Data/results/question_3.xlsx'
+    result3 = '../../Data/results/question_3.xlsx'
     workbook = xlsxwriter.Workbook(result3)
 
     # Start Zeile und Spalte. Diese werden für beide Blätter benutzt.
@@ -187,6 +189,7 @@ def main_question_3():
     df_result_3a = urban_vs_rural_price_sqrm(df_apt=df_apartements, df_pop=df_population)
     df_result_3b = price_demographic(df_apt=df_apartements, df_pop=df_population)
     writeExcel(df_result_3a, df_result_3b)
+    print("process finished, excel file : ")
 
 
 

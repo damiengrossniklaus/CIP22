@@ -36,10 +36,10 @@ def get_data_from_db(table):
 
 def mainMap():
     #loading spatial files
-    gemeinde = gpd.read_file("Data/geodata/SHAPEFILE_LV95_LN02/swissBOUNDARIES3D_1_3_TLM_HOHEITSGEBIET.shp")
-    kantone = gpd.read_file("Data/geodata/SHAPEFILE_LV95_LN02/swissBOUNDARIES3D_1_3_TLM_KANTONSGEBIET.shp")
-    plz_be = pd.read_csv('Data/geodata/plz_be.csv')
-    best_apts = pd.read_excel('../Data/results/results_question2.xlsx')
+    gemeinde = gpd.read_file("geodata/SHAPEFILE_LV95_LN02/swissBOUNDARIES3D_1_3_TLM_HOHEITSGEBIET.shp")
+    kantone = gpd.read_file("geodata/SHAPEFILE_LV95_LN02/swissBOUNDARIES3D_1_3_TLM_KANTONSGEBIET.shp")
+    plz_be = pd.read_csv('geodata/plz_be.csv')
+    best_apts = pd.read_excel('../../Data/results/results_question2.xlsx')
 
 
     #Projektion konvertieren, filtern nach Kanton Bern
@@ -111,7 +111,7 @@ def mainMap():
 
 
     #saving file as html :)
-    m.save('Data/results/question_2_map.html')
+    m.save('../../Data/results/question_2_map.html')
 
 
 if __name__ == "__main__":
