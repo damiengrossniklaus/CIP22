@@ -64,6 +64,7 @@ def generate_columns_ratio(df):
     return df
 
 def impute(df):
+    df["plz"] = df["plz"].fillna(-1)
     df["plz"] = df["plz"].astype(int)
 
     # Entferne Zeilen, welche über keine Raumanzahl verfügen
@@ -115,7 +116,7 @@ def sort_columns(df):
 def transform():
     now = datetime.strftime(datetime.fromtimestamp(time.time()), format="%Y%d%m_%H%M%S")
     print(f"starting process at {now}")
-    file_path = "../Data/clean/A_homegate_newest.csv_clean"
+    file_path = "../Data/clean/A_homegate_newest_clean.csv"
     df_cleaned = pd.read_csv(file_path)
     df_transformed = generate_columns_bool(df_cleaned)
     df_transformed = generate_columns_ratio(df_transformed)

@@ -1,0 +1,24 @@
+2022-05-17 13:35:09,859 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001855556
+2022-05-17 13:35:16,875 - ERROR - could not convert string to float: ' 72 m2' rooms nicht in description https://www.homegate.ch/mieten/3001788777
+2022-05-17 13:39:28,783 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001843770
+2022-05-17 13:39:29,498 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001554735
+2022-05-17 13:43:39,550 - ERROR - could not convert string to float: ' 12 m2' rooms nicht in description https://www.homegate.ch/mieten/3001807862
+2022-05-17 13:48:04,440 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001845937
+2022-05-17 13:48:05,090 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001116884
+2022-05-17 13:52:19,755 - ERROR - could not convert string to float: ' 63 m2' rooms nicht in description https://www.homegate.ch/mieten/3001673027
+2022-05-17 13:56:28,644 - ERROR - could not convert string to float: '' gross rent nicht in description https://www.homegate.ch/mieten/3001807360
+2022-05-17 14:09:23,900 - ERROR - could not convert string to float: ' 22 m2' rooms nicht in description https://www.homegate.ch/mieten/3001825134
+2022-05-17 14:13:32,505 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001856001
+2022-05-17 14:13:32,859 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001858566
+2022-05-17 14:17:49,703 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3000547710
+2022-05-17 14:39:18,532 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001752049
+2022-05-17 14:43:25,589 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001795172
+2022-05-17 14:47:35,645 - ERROR - could not convert string to float: '' gross rent nicht in description https://www.homegate.ch/mieten/3001744898
+2022-05-17 14:47:35,645 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001744898
+2022-05-17 14:56:06,235 - ERROR - could not convert string to float: '' gross rent nicht in description https://www.homegate.ch/mieten/3001778813
+2022-05-17 14:56:10,191 - ERROR - could not convert string to float: '' gross rent nicht in description https://www.homegate.ch/mieten/3001867477
+2022-05-17 14:56:11,074 - ERROR - could not convert string to float: '' gross rent nicht in description https://www.homegate.ch/mieten/3001083868
+2022-05-17 14:56:11,075 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001083868
+2022-05-17 15:04:37,645 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001799063
+2022-05-17 15:04:41,199 - ERROR - could not convert string to float: ' 61 m2' rooms nicht in description https://www.homegate.ch/mieten/3001798144
+2022-05-17 15:08:54,151 - ERROR - list index out of range rooms nicht in description https://www.homegate.ch/mieten/3001871416

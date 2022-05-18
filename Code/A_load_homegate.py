@@ -19,6 +19,9 @@ def upload_data_to_db():
     # Erstelle Cursor zum Interagieren mit der MariaDB
     mycursor = mariadb_connection.cursor()
 
+    # Lösche Table falls dieser schon existiert
+    mycursor.execute("""DROP TABLE homegate_table""")
+
     # Erstelle Tabelle in MariaDB, wenn diese noch nicht existiert
     mycursor.execute("""CREATE TABLE IF NOT EXISTS homegate_table(
                      rooms FLOAT,
@@ -68,12 +71,13 @@ def get_data_from_db():
 
     # Führe Query aus und speichere Daten in Pandas-DataFrame
     df = pd.read_sql(query, con=engine)
-    print(df)
+    print(df.head())
+    print(df.info())
 
     # Schliesse Verbindung zu MariaDB
     engine.dispose()
 
-def main():
+def A_main_load():
 
     # Lade Daten auf Datenbank
     upload_data_to_db()
@@ -83,4 +87,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    A_main_load()
