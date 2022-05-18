@@ -1,10 +1,7 @@
 #merge.py
-
-
 import pandas as pd
 from datetime import datetime
 import time
-
 
 
 def mergeApts(df1, df2, df3):
@@ -17,7 +14,6 @@ def mergeApts(df1, df2, df3):
     print(f"{l1-l2} rows dropped")
 
     return df
-
 
 def mainMerge():
     df_A = pd.read_csv("../Data/stage/B_immoscout_stage.csv")
@@ -34,7 +30,6 @@ def mainMerge():
           f"- Data/joined/df_joined_stage.csv \n"
           f"total rows: {len(df)}"
           )
-
 
 
 if __name__ == "__main__":
