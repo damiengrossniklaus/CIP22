@@ -69,7 +69,7 @@ def create_heatmap(attr = 'apt_id', stat = 'count'):
     merged.plot(attr, cmap = color, missing_kwds={'color': 'lightgrey'},
                 linewidth=0.1, ax = axis_fig, edgecolor='black',  figsize=(12,10))
 
-    figure_be.savefig(f"../../Data/results/results_question1_{attr}.jpeg", format='jpeg')
+    figure_be.savefig(f"../../Data/results/Result_Question_01.jpeg", format='jpeg')
 
     #plt.show()
 

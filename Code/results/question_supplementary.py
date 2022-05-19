@@ -69,6 +69,6 @@ df_res_filt = df_res.loc[(df_res['N'] >= 20)]
 
 
 # write .csv file:
-df_res_filt.to_excel(r'../../Data/results/results_supplementary_question.xlsx', index = False)
+df_res_filt.to_excel(r'../../Data/results/Result_Question_supplementary.xlsx', index = False)
 
 

@@ -140,7 +140,7 @@ def writeExcel(df_result_3a, df_result_3b):
     '''
 
     # Erstellen der Excel Arbeitsmappe
-    result3 = '../../Data/results/question_3.xlsx'
+    result3 = '../../Data/results/Result_Question_03.xlsx'
     workbook = xlsxwriter.Workbook(result3)
 
     # Start Zeile und Spalte. Diese werden für beide Blätter benutzt.
