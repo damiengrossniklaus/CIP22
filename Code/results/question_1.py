@@ -6,8 +6,6 @@ import pandas as pd
 import geopandas as gpd
 import matplotlib.pyplot as plt
 
-
-
 def get_data_from_db():
     """Load data from MariaDB and save to df"""
 
@@ -31,12 +29,6 @@ regions = gpd.read_file(map_dat)
 # read plz file and convert to list
 plz_be = pd.read_csv(r'geodata/plz_be_list.csv')
 plz_be_list = plz_be['x'].tolist()
-
-
-# filter
-#df_heatmap = df_heatmap[df_heatmap['plz'].isin(plz_be_list)]
-#print(df_heatmap.head(5))
-
 
 
 def create_heatmap(attr = 'apt_id', stat = 'count'):
@@ -77,11 +69,11 @@ def create_heatmap(attr = 'apt_id', stat = 'count'):
     merged.plot(attr, cmap = color, missing_kwds={'color': 'lightgrey'},
                 linewidth=0.1, ax = axis_fig, edgecolor='black',  figsize=(12,10))
 
-    figure_be.savefig(f"../../Data/results/results_question1_{attr}.jpeg", format='jpeg')
+    figure_be.savefig(f"../../Data/results/Result_Question_01.jpeg", format='jpeg')
 
     #plt.show()
 
 
 if __name__ == "__main__":
-    create_heatmap('area', 'mean')
+    create_heatmap('rooms', 'mean')
 

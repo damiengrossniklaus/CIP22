@@ -108,7 +108,7 @@ def transform_immoscout():
     id_allocator(df)
     df_final = sort_columns(df)
 
-    print(df_final.info())
+    df_final.info()
 
     # Speichere Daten als .csv im Ordner data_cleaned
     now = datetime.now()
