@@ -36,7 +36,6 @@ df_analysis_bool = df_analysis.copy()
 df_analysis_bool.drop(['rooms', 'area', 'gross_rent', 'plz', 'apt_id', 'url_immoscout',
                                      'url_homegate', 'url_flatfox', 'place'], axis=1, inplace=True)
 
-
 def coef_regression(col):
 
     reg_model = smf.ols(f'gross_rent ~ rooms + area + {col}', data=df_ana_single)
@@ -45,13 +44,10 @@ def coef_regression(col):
 
     return coef_reg_mod
 
-
 car_spot_price = []
 reg_vars = {'plz': [], 'place':[], 'N': [] }
 bool_dict = {key:[] for key in df_analysis_bool.columns}
 reg_output = {**reg_vars, **bool_dict}
-
-
 
 for i in set(df_analysis['plz']):
 
@@ -60,7 +56,7 @@ for i in set(df_analysis['plz']):
     place = df_ana_single['place'].iloc[0]
 
     # dict comprehension to append coefficients of regression result:
-    {key: reg_output[key].append(coef_regression(key)) for key in df_analysis_bool.columns}
+    #{key: reg_output[key].append(coef_regression(key)) for key in df_analysis_bool.columns}
     
     reg_output['plz'].append(i)
     reg_output['place'].append(place)
@@ -73,6 +69,6 @@ df_res_filt = df_res.loc[(df_res['N'] >= 20)]
 
 
 # write .csv file:
-df_res_filt.to_excel(r'../../Data/results/results_supplementary_question.xlsx', index = False)
+df_res_filt.to_excel(r'../../Data/results/Result_Question_supplementary.xlsx', index = False)
 
 

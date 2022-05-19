@@ -182,7 +182,7 @@ def answer_second_question():
                        'Oberaargau', 'Emmental', 'Oberland West', 'Oberland Ost']
 
     # Führe Funktion aus und schreibe Resultate in Excel-Datei
-    excel_sheets_writer(df_list, sheet_name_list, '../../Data/results/results_question2.xlsx')
+    excel_sheets_writer(df_list, sheet_name_list, '../../Data/results/Result_Question_02.xlsx')
 
     print("Resultate wurden in Excel-Datei geschrieben!")
 
